@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+
+    <title>My project week 1</title>
+  </head>
+  <body>
+    <h1>This is a basic web create by me</h1>
+    <a href=""> One</a>
+    <a href=""> Two</a>
+    <a href=""> Three</a>
+    <a href=""> Haha</a>
+    <section>
+      <h2>Favorite Food</h2>
+      <ul>
+        <li>Rice</li>
+        <li>BBQ</li>
+        <li>mango</li>
+        <li>banana</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Achivement</h2>
+      <a>Progress in course (100%) <meter value="1"></meter></a><br />
+      <a
+        >Progress in the Specialization capstone (20%)
+        <meter value="0.2"></meter></a
+      ><br />
+      <a>Progress in life goals (45%) <meter value="0.45"></meter></a>
+    </section>
+    <section>
+      <h2>More About Me</h2>
+      <a>
+        My childhood <br />
+        I'am Trung Anh, and i"m 20 year old.
+        <br />
+        <pooter>
+          <img src="http://www.intro-webdesign.com/images/newlogo.png" />
+        </pooter>
+        This page was created by LE TRUNG ANH and Colleen van Lent. To learn
+        more about web design, visit</a
+      >
+      <a href="https://www.intro-webdesign.com/"> "Intro to Web Design" </a>
+    </section>
+  </body>
+</html>
